@@ -1,19 +1,18 @@
-###Svitlana Zhovanik
-Frontend Developer | HTML | CSS | Tailwind.css | JavaScript | React | Next.js
+# Svitlana Zhovanik
+
+## Frontend Developer | HTML | CSS | Tailwind.css | JavaScript | React | Next.js
 
 Hi there 👋 I'm Svitlana, a passionate Frontend Developer based in Kyiv, Ukraine. With a solid understanding of HTML, CSS, Tailwind.css, JavaScript, React, and Next.js, I strive to create exceptional web experiences that combine aesthetics and functionality.
 
-Technologies I Work With:
+## Technologies
 
-<img src="https://img.shields.io/badge/HTML-Expert-orange" alt="HTML">
-<img src="https://img.shields.io/badge/CSS-Expert-blue" alt="CSS">
-<img src="https://img.shields.io/badge/Tailwind.css-Expert-green" alt="Tailwind.css"> 
-<img src="https://img.shields.io/badge/JS-Expert-yellow" alt="JavaScript">
-<img src="https://img.shields.io/badge/React-Expert-brightgreen" alt="React">
-<img src="https://img.shields.io/badge/Next.js-Expert-blueviolet)" alt="Next.js">
-<img src="https://img.shields.io/badge/TypeScript-Basic-lightblue)" alt="TypeScript">
----
-Education and Experience:
+I Work With:
+
+<img src="https://img.shields.io/badge/HTML-Expert-orange" alt="HTML"><img src="https://img.shields.io/badge/CSS-Expert-blue" alt="CSS"><img src="https://img.shields.io/badge/Tailwind.css-Expert-green" alt="Tailwind.css"> <img src="https://img.shields.io/badge/JS-Expert-yellow" alt="JavaScript"><img src="https://img.shields.io/badge/React-Expert-brightgreen" alt="React"><img src="https://img.shields.io/badge/Next.js-Expert-blueviolet)" alt="Next.js"><img src="https://img.shields.io/badge/TypeScript-Basic-lightblue)" alt="TypeScript">
+
+***
+
+### Education and Experience:
 
 Completed Fullstack Developer courses at GoIT in June 2022, acquiring a comprehensive understanding of web development principles and technologies.
 Currently, I have been working for SoftRyzen for over a year, where I have honed my skills and gained practical experience in developing front-end solutions.
