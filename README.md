@@ -1,7 +1,8 @@
 # Svitlana Zhovanik
 
 
-**Frontend Developer | HTML | CSS | Tailwind.css | JavaScript | React | Next.js**
+### Frontend Developer
+**| HTML | CSS | Tailwind.css | JavaScript | React | Next.js**
 
 Hi there 👋 I'm Svitlana, a passionate Frontend Developer based in Kyiv, Ukraine. With a solid understanding of HTML, CSS, Tailwind.css, JavaScript, React, and Next.js, I strive to create exceptional web experiences that combine aesthetics and functionality.
 
