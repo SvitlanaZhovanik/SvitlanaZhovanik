@@ -16,7 +16,7 @@ I Work With:
 <img src="https://img.shields.io/badge/JS-Expert-yellow" alt="JavaScript">
 <img src="https://img.shields.io/badge/React-Expert-brightgreen" alt="React">
 <img src="https://img.shields.io/badge/Next.js-Expert-blueviolet" alt="Next.js"> 
-<img src="https://img.shields.io/badge/TypeScript-Basic-red)" alt="TypeScript">
+<img src="https://img.shields.io/badge/TypeScript-Basic-darkblue" alt="TypeScript">
 
 
 ### Education and Experience:
