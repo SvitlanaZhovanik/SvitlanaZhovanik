@@ -1,5 +1,6 @@
 # Svitlana Zhovanik
 
+
 ## Frontend Developer | HTML | CSS | Tailwind.css | JavaScript | React | Next.js
 
 Hi there 👋 I'm Svitlana, a passionate Frontend Developer based in Kyiv, Ukraine. With a solid understanding of HTML, CSS, Tailwind.css, JavaScript, React, and Next.js, I strive to create exceptional web experiences that combine aesthetics and functionality.
@@ -8,7 +9,13 @@ Hi there 👋 I'm Svitlana, a passionate Frontend Developer based in Kyiv, Ukrai
 
 I Work With:
 
-<img src="https://img.shields.io/badge/HTML-Expert-orange" alt="HTML"><img src="https://img.shields.io/badge/CSS-Expert-blue" alt="CSS"><img src="https://img.shields.io/badge/Tailwind.css-Expert-green" alt="Tailwind.css"> <img src="https://img.shields.io/badge/JS-Expert-yellow" alt="JavaScript"><img src="https://img.shields.io/badge/React-Expert-brightgreen" alt="React"><img src="https://img.shields.io/badge/Next.js-Expert-blueviolet)" alt="Next.js"><img src="https://img.shields.io/badge/TypeScript-Basic-lightblue)" alt="TypeScript">
+<img src="https://img.shields.io/badge/HTML-Expert-orange" alt="HTML">
+<img src="https://img.shields.io/badge/CSS-Expert-blue" alt="CSS">
+<img src="https://img.shields.io/badge/Tailwind.css-Expert-green" alt="Tailwind.css"> 
+<img src="https://img.shields.io/badge/JS-Expert-yellow" alt="JavaScript">
+<img src="https://img.shields.io/badge/React-Expert-brightgreen" alt="React">
+<img src="https://img.shields.io/badge/Next.js-Expert-blueviolet" alt="Next.js"> 
+<img src="https://img.shields.io/badge/TypeScript-Basic-darkblue)" alt="TypeScript">
 
 ***
 
