@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**SvitlanaZhovanik/SvitlanaZhovanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Svitlana's GitHub stats](https://github-readme-stats.vercel.app/api?username=SvitlanaZhovanik&show_icons=true&theme=synthwave)
 
 Here are some ideas to get you started:
 
