@@ -23,7 +23,7 @@ I Work With:
 ### Education and Experience:
 
 Completed Fullstack Developer courses at GoIT in June 2022, acquiring a comprehensive understanding of web development principles and technologies.
-Currently, I have been working for SoftRyzen for over a year, where I have honed my skills and gained practical experience in developing front-end solutions.
+I have two years of commercial experience.
 I am a detail-oriented individual who believes in the power of clean and efficient code. I enjoy collaborating with teams to deliver high-quality projects that exceed client expectations. With a constant thirst for learning and staying up-to-date with the latest industry trends, I am committed to continuously enhancing my skills and exploring new possibilities in front-end development.
 
 **Feel free to reach out if you have any exciting projects or opportunities. Let's create something amazing together!**
