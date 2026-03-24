@@ -4,20 +4,29 @@
 ### Frontend Developer
 **| HTML | CSS | Tailwind.css | JavaScript | React | Next.js**
 
-Hi there 👋 I'm Svitlana, a passionate Frontend Developer based in Kyiv, Ukraine. With a solid understanding of HTML, CSS, Tailwind.css, JavaScript, React, and Next.js, I strive to create exceptional web experiences that combine aesthetics and functionality.
+Hi there 👋 I'm Svitlana, a passionate Frontend Developer based in Lviv Region, Ukraine. With a solid understanding of HTML, CSS, Tailwind.css, JavaScript, React, and Next.js, I strive to create exceptional web experiences that combine aesthetics and functionality.
 
+## My skills
 
-## Technologies
-
-I Work With:
-
-<img src="https://img.shields.io/badge/HTML-Expert-orange" alt="HTML">
-<img src="https://img.shields.io/badge/CSS-Expert-blue" alt="CSS">
-<img src="https://img.shields.io/badge/Tailwind.css-Expert-green" alt="Tailwind.css"> 
-<img src="https://img.shields.io/badge/JS-Expert-yellow" alt="JavaScript">
-<img src="https://img.shields.io/badge/React-Expert-brightgreen" alt="React">
-<img src="https://img.shields.io/badge/Next.js-Expert-blueviolet" alt="Next.js"> 
-<img src="https://img.shields.io/badge/TypeScript-Basic-darkblue" alt="TypeScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Skills" align="left" width="60" height="80"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Skills" align="left" width="60" height="80"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Skills" align="left" width="60" height="80"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Skills" align="left" width="60" height="80"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Skills" align="left" width="60" height="80"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Skills" align="left" width="60" height="80"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Skills" align="left" width="60" height="80"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" alt="Skills" align="left" width="60" height="80"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="Skills" align="left" width="60" height="80"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Skills" align="left" width="60" height="80"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Skills" align="left" width="60" height="80"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Skills" align="left" width="60" height="80"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="Skills" align="left" width="60" height="80"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Skills" align="left" width="60" height="80"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="Skills" align="left" width="60" height="80"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Skills" align="left" width="60" height="80"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Skills" align="left" width="60" height="80"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Skills" align="left" width="60" height="80"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 
 
 ### Education and Experience:
@@ -29,6 +38,6 @@ I am a detail-oriented individual who believes in the power of clean and efficie
 **Feel free to reach out if you have any exciting projects or opportunities. Let's create something amazing together!**
 
 ***
-
-![Svitlana's GitHub stats](https://github-readme-stats.vercel.app/api?username=SvitlanaZhovanik&show_icons=true&theme=synthwave)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=SvitlanaZhovanik&layout=pie&langs_count=7&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=SvitlanaZhovanik&layout=pie&langs_count=7&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SvitlanaZhovanik&rank_icon=github&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=SvitlanaZhovanik&rank_icon=github&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=transparent)
 
