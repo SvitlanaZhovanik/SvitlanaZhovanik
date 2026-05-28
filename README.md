@@ -2,20 +2,20 @@
 
 
 ### Frontend Developer
-**| HTML | CSS | Tailwind.css | JavaScript | React | Next.js**
+**| HTML | CSS | JavaScript | React | Next.js  | Tailwind.css**
 
-Hi there 👋 I'm Svitlana, a passionate Frontend Developer based in Lviv Region, Ukraine. With a solid understanding of HTML, CSS, Tailwind.css, JavaScript, React, and Next.js, I strive to create exceptional web experiences that combine aesthetics and functionality.
+Hi there 👋 I'm Svitlana, a passionate Frontend Developer based in Lviv Region, Ukraine. With a solid understanding of HTML, CSS, JavaScript, React, Next.js, Tailwind.css. I strive to create exceptional web experiences that combine aesthetics and functionality.
 
 ### My skills
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Skills" align="left" width="60" height="80"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Skills" align="left" width="60" height="80"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Skills" align="left" width="60" height="80"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Skills" align="left" width="60" height="80"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Skills" align="center" width="60" height="80"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Skills" align="left" width="60" height="80"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Skills" align="left" width="60" height="80"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" alt="Skills" align="left" width="60" height="80"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Skills" align="left" width="60" height="80"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Skills" align="left" width="60" height="80"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Skills" align="left" width="60" height="80"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Skills" align="left" width="60" height="80"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Skills" align="center" width="60" height="80"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Skills" align="left" width="60" height="80"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Skills" align="left" width="60" height="80"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" alt="Skills" align="left" width="60" height="80"/>    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Skills" align="center" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Skills" align="left" width="60" height="80"/>  
